@@ -33,7 +33,7 @@ Deck::Deck() {
 	else
 	{
 		string suite[] = { string(1, SPADE), string(1, HEART), string(1, DIAMOND), string(1, CLUB) };
-		string card[] = { "1", "2", "3", "4", "5", "6", "7", "8", "9", "X", "J", "Q", "K", "A" };
+		string card[] = { "A", "2", "3", "4", "5", "6", "7", "8", "9", "X", "J", "Q", "K" };
 
 		// insert 52 cards into the deck vector
 		for (string s : suite) {
