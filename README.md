@@ -109,10 +109,7 @@ of three ways:
 	the table, the player may choose to capture the set of cards
 	or not, e.g., if the player plays an 8, and a 5 and 3 are on
 	the table, the player may choose to capture both the 5 and 3
-	  from the table with her 8 card. If the player plays an Ace
-	(value of 14),
-	the player can capture a King (value of 13) and another Ace
-	(value of 1) on the table. 
+	  from the table with her 8 card.
       </li>
       <li> <b>Combination of individual and set of cards:</b>
 	The player can capture one or more individual cards as well as
